@@ -21,7 +21,7 @@ int main() {
             printf("%.1lf - %.1lf = %.1lf\n", firstNumber, secondNumber, firstNumber - secondNumber);
             break;
         case '*':
-            printf("%.1lf * %.1lf = %.1lf\n", firstNumber, secondNumber, firstNumber * secondName;
+            printf("%.1lf * %.1lf = %.1lf\n", firstNumber, secondNumber, firstNumber * secondNumber);
             break;
         case '/':
             if(secondNumber != 0.0)
